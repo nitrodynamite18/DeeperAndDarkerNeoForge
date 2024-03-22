@@ -1,28 +1,23 @@
+<p align="center"><img src="https://github.com/KyaniteMods/DeeperAndDarker/blob/forge-1.20/src/main/resources/banner.png" alt="banner" width="1024"></p>
 
-Installation information
-=======
+---
+A Minecraft mod featuring new blocks, items, armor, and hidden mysteries to complement the Deep Dark update. Some features introduced by Deeper and Darker include new sculk-related blocks, Warden armor and tools, and the Otherside dimension!
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions at [github](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+If you happen to find any bugs in Deeper and Darker, be sure to report them here! Try not to post duplicate reports however.
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+# Contributions
+[![Crowdin](https://badges.crowdin.net/deeper-and-darker/localized.svg)](https://crowdin.com/project/deeper-and-darker)
 
-> **Note**: For Eclipse, use tasks in `Launch Group` instead of ones founds in `Java Application`. A preparation task must run before launching the game. NeoGradle uses launch groups to do these subsequently.
+If you would like to help translate Deeper and Darker, head over to our [Crowdin](https://crowdin.com/project/deeper-and-darker) page. If there is a language you want to add translations for, but it is not listed on the page, start a discussion on Crowdin or join our [Discord](https://discord.gg/GDNRd5yvxa)! We'd love to make our mod even more accessible.
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+We accept bug fixes from the community; however, the majority of development is done internally by the Kyanite Mods team. Be sure to use proper naming conventions and match the organization of the mod's workspace if you want to make changes!
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license, if you do not agree with it you can change your mapping names to other crowdsourced names in your 
-build.gradle. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+# Building From Source
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+If you want to build Deeper And Darker from source, clone this repo and run the following:
+
+```
+gradlew build
+```
+
+Build files are located in the project's `build/libs` folder.
