@@ -1,0 +1,23 @@
+{
+  "block.deeperdarker.echo_button": "Echo Button",
+  "block.deeperdarker.echo_door": "Echo Door",
+  "block.deeperdarker.echo_fence": "Echo Fence",
+  "block.deeperdarker.echo_fence_gate": "Echo Fence Gate",
+  "block.deeperdarker.echo_leaves": "Echo Leaves",
+  "block.deeperdarker.echo_log": "Echo Log",
+  "block.deeperdarker.echo_planks": "Echo Planks",
+  "block.deeperdarker.echo_pressure_plate": "Echo Pressure Plate",
+  "block.deeperdarker.echo_slab": "Echo Slab",
+  "block.deeperdarker.echo_stairs": "Echo Stairs",
+  "block.deeperdarker.echo_trapdoor": "Echo Trapdoor",
+  "block.deeperdarker.echo_wood": "Echo Wood",
+  "block.deeperdarker.stripped_echo_log": "Stripped Echo Log",
+  "block.deeperdarker.stripped_echo_wood": "Stripped Echo Wood",
+  "item.deeperdarker.heart_of_the_deep": "Heart of the Deep",
+  "item.deeperdarker.reinforced_echo_shard": "Reinforced Echo Shard",
+  "item.deeperdarker.sculk_bone": "Sculk Bone",
+  "item.deeperdarker.soul_crystal": "Soul Crystal",
+  "item.deeperdarker.soul_dust": "Soul Dust",
+  "item.deeperdarker.warden_carapace": "Warden Carapace",
+  "itemGroup.deeperdarker": "Deeper and Darker"
+}
