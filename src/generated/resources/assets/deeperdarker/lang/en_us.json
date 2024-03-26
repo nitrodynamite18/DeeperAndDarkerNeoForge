@@ -1,4 +1,13 @@
 {
+  "block.deeperdarker.bloom_button": "Bloom Button",
+  "block.deeperdarker.bloom_door": "Bloom Door",
+  "block.deeperdarker.bloom_fence": "Bloom Fence",
+  "block.deeperdarker.bloom_fence_gate": "Bloom Fence Gate",
+  "block.deeperdarker.bloom_planks": "Bloom Planks",
+  "block.deeperdarker.bloom_pressure_plate": "Bloom Pressure Plate",
+  "block.deeperdarker.bloom_slab": "Bloom Slab",
+  "block.deeperdarker.bloom_stairs": "Bloom Stairs",
+  "block.deeperdarker.bloom_trapdoor": "Bloom Trapdoor",
   "block.deeperdarker.echo_button": "Echo Button",
   "block.deeperdarker.echo_door": "Echo Door",
   "block.deeperdarker.echo_fence": "Echo Fence",

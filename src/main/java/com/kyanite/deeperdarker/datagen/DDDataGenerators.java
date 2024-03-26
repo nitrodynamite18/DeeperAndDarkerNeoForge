@@ -17,6 +17,7 @@ public class DDDataGenerators {
 
             generator.addProvider(true, new DDENLanguageProvider(output));
             generator.addProvider(true, new DDItemModelProvider(output, helper));
+
         }
         catch (RuntimeException exception) {
             DeeperDarker.logger.error("Failed to generate data", exception);

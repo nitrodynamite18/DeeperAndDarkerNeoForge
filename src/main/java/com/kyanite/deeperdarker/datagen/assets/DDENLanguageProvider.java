@@ -24,7 +24,7 @@ public class DDENLanguageProvider extends LanguageProvider {
         addItem(DDItems.SOUL_DUST, "Soul Dust");
         addItem(DDItems.SOUL_CRYSTAL, "Soul Crystal");
 
-        // Block Items
+        // Block items
         addItem(DDItems.ECHO_LOG, "Echo Log");
         addItem(DDItems.ECHO_WOOD, "Echo Wood");
         addItem(DDItems.STRIPPED_ECHO_LOG, "Stripped Echo Log");
@@ -40,7 +40,16 @@ public class DDENLanguageProvider extends LanguageProvider {
         addItem(DDItems.ECHO_BUTTON, "Echo Button");
         addItem(DDItems.ECHO_LEAVES, "Echo Leaves");
 
+        addItem(DDItems.BLOOM_PLANKS, "Bloom Planks");
+        addItem(DDItems.BLOOM_STAIRS, "Bloom Stairs");
+        addItem(DDItems.BLOOM_SLAB, "Bloom Slab");
+        addItem(DDItems.BLOOM_FENCE, "Bloom Fence");
+        addItem(DDItems.BLOOM_FENCE_GATE, "Bloom Fence Gate");
+        addItem(DDItems.BLOOM_DOOR, "Bloom Door");
+        addItem(DDItems.BLOOM_TRAPDOOR, "Bloom Trapdoor");
+        addItem(DDItems.BLOOM_PRESSURE_PLATE, "Bloom Pressure Plate");
+        addItem(DDItems.BLOOM_BUTTON, "Bloom Button");
+
         // Blocks
-        
     }
 }
